@@ -44,7 +44,9 @@ Starting analysis
 {'in': 18, 'for': 16, 'if': 16, 'def': 13, 'and': 5, 'as': 3, 'class': 3, 'import': 3, 'not': 3, 'with': 2, 'from': 1, 'is': 1, 'or': 1, 'return': 1, 'False': 0, 'None': 0, 'True': 0, 'assert': 0, 'break': 0, 'continue': 0, 'del': 0, 'elif': 0, 'else': 0, 'except': 0, 'finally': 0, 'global': 0, 'lambda': 0, 'nonlocal': 0, 'pass': 0, 'raise': 0, 'try': 0, 'while': 0, 'yield': 0}
 Number of lines:  172
 ```
-[And we get a nice graph](./2.PNG)
+And we get a nice graph
+
+![Graph](./2.PNG)
 
 ## Parse all the files in another directory
 ```
